@@ -39,7 +39,6 @@ console.log('');
 
 
 
-
 // 3) Il software deve chiedere per 10 volte all’utente di inserire un numero.
 // Il programma stampa la somma di tutti i numeri inseriti.
 // console.log('Snack 3')
@@ -78,7 +77,9 @@ console.log('');
 
 
 
-// 5)Crea un array vuoto.
+// ESERCIZIO VARIABILI DIVERSE 
+
+// 5)Crea un array vuoto.   
 // Chiedi per 6 volte all’utente di inserire un numero,
 //     se è dispari inseriscilo nell’array.Stampa l'array alla fine.
 // console.log('Snack 5');
